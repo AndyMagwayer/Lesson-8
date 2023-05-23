@@ -1,5 +1,40 @@
 *{
 margin: 0;
 padding: 0;
+box-sizing: border-box;
+}
 
+body{
+padding-left: 50px;
+background-color: #2F343A;
+color: #fff;
+}
+
+li{
+list-style: none;
+
+}
+a{
+text-decoration: none;
+color: #fff;
+
+
+}
+.top{
+    background-color: #c8a35f;
+}
+
+.top .container{
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+.top ul{
+    font-size: 12px;
+    text-transform: uppercase;
+
+}
+.top a{
+
+    font-size: 12px;
 }
