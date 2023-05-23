@@ -38,3 +38,19 @@ justify-content: space-between;
 
     font-size: 12px;
 }
+ .navbar .container{
+display: flex;
+align-items: center;
+gap: 10px;
+ }
+
+ .navbar .menu{
+display: flex;
+gap: 30px;
+ }
+
+ .navbar .menu li{
+text-transform: uppercase;
+font-size: 14px;
+ }
+ 
